@@ -1,4 +1,4 @@
-#Basic Text Analizer
+# Basic Text Analizer
 
 Terdapat beberapa fitur :
 * Menghitung dan mengecek jumlah kalimat yang ada
